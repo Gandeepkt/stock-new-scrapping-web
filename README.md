@@ -1,3 +1,1 @@
-# stock-new-scrapping
-# stock-new-scrapping
-# stock-new-scrapping
+Hi everyone, this is my first project that I make during highschool. After this project I will using for get in to the collage. This project I making a scrapping web to get a news stock data from yahoo, it may common to most of people to would like to be engineer but however it is my first project I have more 3 year to make  it more interesting and more effective. I hope this porject is useful for everyone who interest in coding.
